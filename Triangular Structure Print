@@ -1,0 +1,10 @@
+v = 1
+l="*"
+
+v1=int(input("max size of traiangle:"))
+
+while(v<=v1):
+    print(l)    
+    l= l +"*"
+    h=h+1
+    v= v+1
